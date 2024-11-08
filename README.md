@@ -1,6 +1,6 @@
 # Cylinder_volume
 
-The formaula for the volume of a cylinder is:
+The formula for the volume of a cylinder is:
 (area of the circle base) x height of the cylinder = (𝜋r^2) x h
 
 The user will be asked to type in 2 float(or int converted to float) values separately, the circle base's diameter and the cylinder's height.
